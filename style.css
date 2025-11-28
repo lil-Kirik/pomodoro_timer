@@ -67,3 +67,13 @@ h1{
     background-color: #fff;
     color: black;
 }
+
+@media (max-width: 375px) {
+  .timer {
+    font-size: 125px;
+}
+
+.btns {
+    font-size: 20px;
+}
+}
